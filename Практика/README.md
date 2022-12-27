@@ -66,7 +66,7 @@
 <!-- CONTACT -->
 ## Связь
 
-Главный разработчик Никита - [Kochnev.35](https://vk.com/kocha35)
+Главный разработчик Иван - [Kochnev.35](https://vk.com/kocha35)
 
 Ссылка на проект: [NOEMI](https://github.com/Kochnev35/Praktika-study)
 
